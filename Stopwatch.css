@@ -7,11 +7,22 @@ html {
 }
 
 body {
+}
+
+.container {
 	margin: 0;
 	font-size: 2rem;
 	display: flex;
 	flex: 1;
-	min-height: 100vh;
+	min-height: 50vh;
+	align-items: center;
+}
+.stopwatch {
+	margin: 0;
+	font-size: 2rem;
+	display: flex;
+	flex: 1;
+	min-height: 50vh;
 	align-items: center;
 }
 
